@@ -10,7 +10,7 @@ body {
 
 .header {
     padding: 20px;
-    padding-bottom: 0;
+    padding-bottom: 5px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -75,6 +75,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    padding:10px;
 }
 
 .benefits {
@@ -91,6 +92,7 @@ p {
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+    
 }
 
 .benefit-brand {
@@ -143,6 +145,13 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    overflow:scroll;
+}
+
+.search-engine-optimization img {
+    float:left;
+    padding-bottom: 15px;
+    padding-right: 20px;
 }
 
 .online-reputation-management {
