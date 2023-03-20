@@ -11,8 +11,9 @@ N/A
 
 When using this webpage you will see that even when you shrink the webpage the content inside of the div tags are now scrollable and not overflowing or overlapping onto the next topic. You can also click on 1 of the 3 options on the top of the page in order to navigate to that topic.
 
-![alt txt](assets/images/header.png)
-![alt text](assets/images/bodys.png)
+![screenshot of the 3 selections to click at top of page](assets/images/header.png) 
+
+![screenshot of the new scroll](assets/images/body.png)
 
 ## Credits
 In this project I used https://www.youtube.com/watch?v=kGA9RIFiyIE .
