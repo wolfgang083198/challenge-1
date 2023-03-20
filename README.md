@@ -11,6 +11,9 @@ N/A
 
 When using this webpage you will see that even when you shrink the webpage the content inside of the div tags are now scrollable and not overflowing or overlapping onto the next topic. You can also click on 1 of the 3 options on the top of the page in order to navigate to that topic.
 
+![alt txt](assets/images/header.png)
+![alt text](assets/images/bodys.png)
+
 ## Credits
 In this project I used https://www.youtube.com/watch?v=kGA9RIFiyIE .
 I also was able to use notes from a coding app called "Mimo" that I study outside of class. https://apps.apple.com/us/app/mimo-learn-coding-programming/id1133960732 .
