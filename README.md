@@ -2,7 +2,7 @@
 
 ## Description
 
-During this project I was was motivated by help make changes to the CSS page and the HTML page that away that webpage was able to stay organized even on a smaller screen. I was able to solve the problem of the words overflowing onto the next div or section and creating kind of a hard way to read the text. While I was doing this project I was able to learn more about what you can do inside your CSS page!
+During this project I was was motivated by being able to help make changes to the CSS page that away that webpage was able to stay organized even on a smaller screen. I was able to solve the problem of the words overflowing onto the next div or section and creating kind of a hard way to read the text. While I was doing this project I was able to learn more about what you can do inside your CSS page! Lastly I was able to Shrink the CSS page to help organize and make the code more accessible to future changes!
 
 ## Installation
 N/A
